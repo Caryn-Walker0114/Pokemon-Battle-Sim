@@ -31,8 +31,6 @@ class Pokemon
 
         void enemyTurn(Pokemon & p, Pokemon & e);
 
-        void printInfo(Pokemon p, Pokemon e);
-
 
         //-------------Accessors-------------//
 
